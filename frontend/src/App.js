@@ -1,7 +1,7 @@
 import React from 'react';
 import './global.css';
 
-import Routes from './pages/Logon';
+import Routes from './routes';
 
 function App() {
   return (
